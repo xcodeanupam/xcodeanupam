@@ -10,7 +10,7 @@ https://www.upwork.com/freelancers/~0130ab7f46fff2c63b
 https://www.fiverr.com/anupamagnihotri?up_rollout=true
 Gmail- xcodeanupam@gmail.com
 Skype- xcode anupam
-phone - +917986585207
+phone - +919621040077
 
 <!---
 xcodeanupam/xcodeanupam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
