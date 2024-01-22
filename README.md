@@ -8,6 +8,9 @@
 - 📫 How to reach me
 https://www.upwork.com/freelancers/~0130ab7f46fff2c63b
 https://www.fiverr.com/anupamagnihotri?up_rollout=true
+https://www.stackasian.com/
+https://resizeimage.stackasian.com/
+
 Gmail- xcodeanupam@gmail.com
 Skype- xcode anupam
 phone - +919621040077
