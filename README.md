@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xcodeanupam (Anupam Kumar Agnihotri)
+- 👋 Hi, I’m @xcodeanupam (Anupam Kumar Agnihotri) another account https://github.com/springCoders
 
 - 👀 I’m interested in developing dashboards, CMS, softwares, Tools, PWA, E-commerce and Mobile Application development. 
-    I am currently working with MEAN and MERN stack projects.
-- 🌱 I’m currently learning AWS, Firebase, and latest Js frameworks.
+    I am currently working with MEAN and MERN stack projects. (ANGULAR / REACT)
+- 🌱 I’m experienced with AWS, Firebase, and latest Js frameworks.
 - 💞️ I’m looking to collaborate on Angular Libraries, NPM Packages.
 
 - 📫 How to reach me
